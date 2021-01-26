@@ -1,1 +1,1 @@
-# promosso-o-rimandato
+# promosso-o-rimandato senza input
